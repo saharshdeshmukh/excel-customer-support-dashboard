@@ -1,7 +1,7 @@
 # Customer Support Operations Dashboard (Excel)
 
 ## Dashboard Preview
-![Customer Support Dashboard]()
+![Customer Support Dashboard](https://github.com/saharshdeshmukh/excel-customer-support-dashboard/blob/main/images/Customer%20Support%20Operations%20Dashboard%20(Excel).png)
 
 ## Project Overview
 This project focuses on analyzing customer support operations using Microsoft Excel to improve service visibility and operational decision-making. The dashboard tracks key performance indicators such as ticket volume, resolution efficiency, and response performance.
